@@ -3,6 +3,7 @@ public class HelloWorld{
     System.out.println("Hello World");
     System.out.println("masukan nama :");
     String nama = nextLine();
-    System.out.println("Hallo Semuanya");
+    System out println("editan terbaru");
+
   }
 }
